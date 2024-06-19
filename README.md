@@ -55,4 +55,4 @@ split_pdf(input_pdf, page_ranges, output_prefix)
 - Các file PDF đầu ra sẽ được lưu với định dạng `output_prefix_i.pdf` trong thư mục được chỉ định.
 
 ### Liên Hệ
-Nếu có bất kỳ vấn đề gì, vui lòng liên hệ với [địa chỉ email của bạn] để được hỗ trợ.
+Nếu có bất kỳ vấn đề gì, vui lòng liên hệ với [pmkkhoaminh@gmail.com] để được hỗ trợ.
